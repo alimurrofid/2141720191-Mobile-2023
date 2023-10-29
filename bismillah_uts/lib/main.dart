@@ -548,7 +548,7 @@ class MyApp extends StatelessWidget {
                           width: 25,
                           margin: EdgeInsets.only(bottom: 7),
                           child: Image.network(
-                              'https://cdn-icons-png.flaticon.com/128/748/748015.png'),
+                              'https://cdn-icons-png.flaticon.com/128/10263/10263049.png'),
                         ),
                         Container(
                           child: Text(
@@ -556,7 +556,7 @@ class MyApp extends StatelessWidget {
                             style: TextStyle(
                                 fontSize: 10,
                                 fontWeight: FontWeight.w800,
-                                color: Colors.grey[700]),
+                                color: Colors.red[600]),
                           ),
                         )
                       ],
