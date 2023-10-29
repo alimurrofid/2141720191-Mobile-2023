@@ -18,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 # Tampilan Home
 
 ![Home Screen](image.png)
+
+# Tampilan Transaction History
+![Transaction History](image-1.png)
